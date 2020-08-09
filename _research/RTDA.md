@@ -20,7 +20,7 @@ in Spring of 2020 and set to happen in Fall of 2020. My work on this was even a 
 When I first started getting interested in TDA, I worked on documentation for the R package 'TDA', which then
 led to the above tutorial project.
 
-[Undergraduate Research Celebration Poster](https://www.montana.edu/news/19766/msu-undergraduate-helps-make-complex-computer-science-more-accessible)
+[[Undergraduate Research Celebration Poster](https://www.montana.edu/news/19766/msu-undergraduate-helps-make-complex-computer-science-more-accessible)]
 
 
 
