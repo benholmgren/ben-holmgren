@@ -21,5 +21,5 @@ Our description has a faster runtime for high dimensional data with no increase 
 
 As a collaborative project between students in the fields of design and computational geometry, Brad McCoy, Marco Huot, and I made a video to illustrate some of the motivations for discrete Morse theory. 
 
-[Video](https://vimeo.com/393067859) [Paper](../../assets/socg-video.pdf)
+[[Video](https://vimeo.com/393067859)] [[Paper](../../assets/socg-video.pdf)]
 

@@ -12,9 +12,7 @@ This culminated in an NSF funded workshop, postponed due to COVID-19
 in Spring of 2020 and set to happen in Fall of 2020. My work on this was even a featured research preview in the
 [Montana State University News](https://www.montana.edu/news/19766/msu-undergraduate-helps-make-complex-computer-science-more-accessible).
 
-[Online Tutorials](https://comptag.github.io/t4ds/)
-
-[USP 2019/20 Proposal](../../assets/socg-video.pdf)
+[[Online Tutorials](https://comptag.github.io/t4ds/)] [[USP 2019/20 Proposal](../../assets/socg-video.pdf)]
 
 
 ### R Package 'TDA' Documentation
