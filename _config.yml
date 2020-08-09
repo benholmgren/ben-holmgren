@@ -59,15 +59,6 @@ defaults:
       type: "WebPage"
 
 - scope:
-    path: _teaching
-    type: teaching
-  values:
-    layout: teaching
-    sectionid: teaching
-    seo:
-      type: "WebPage"
-
-- scope:
     path: _aboot
     type: aboot
   values:
@@ -84,9 +75,6 @@ collections:
     permalink: /blog/:year/:month/:day/:title/
     output: true
   research:
-    permalink: /:collection/:path/
-    output: true
-  teaching:
     permalink: /:collection/:path/
     output: true
   aboot:
