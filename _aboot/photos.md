@@ -4,7 +4,7 @@ permalink: /aboot/photos/
 redirect_from: /aboot/photos.html
 ---
 
-Here are a ton of photos from my life.
+Here are a bunch of sorta recent photos.
 
 ![1](../../assets/img/rand_imgs/1.jpg)
 
