@@ -4,52 +4,36 @@ permalink: /aboot/photos/
 redirect_from: /aboot/photos.html
 ---
 
-Here are a bunch of sorta recent photos.
+Here are a bunch of sorta recent photos of me climbing and stuff.
 
-![1](../../assets/img/rand_imgs/1.jpg)
-
-
-![2](../../assets/img/rand_imgs/2.jpg)
-
+![74](../../assets/img/rand_imgs/74.jpg)
 
 ![3](../../assets/img/rand_imgs/3.jpg)
 
+![35](../../assets/img/rand_imgs/35.jpg)
 
-![4](../../assets/img/rand_imgs/4.jpg)
+![1](../../assets/img/rand_imgs/1.jpg)
 
 ![10](../../assets/img/rand_imgs/10.jpg)
-
-![5](../../assets/img/rand_imgs/5.jpg)
 
 ![6](../../assets/img/rand_imgs/6.jpg)
 
 ![7](../../assets/img/rand_imgs/7.jpg)
 
-![8](../../assets/img/rand_imgs/8.jpg)
-
 ![9](../../assets/img/rand_imgs/9.jpg)
 
 ![11](../../assets/img/rand_imgs/11.jpg)
 
-![12](../../assets/img/rand_imgs/12.jpg)
 
 ![13](../../assets/img/rand_imgs/13.jpg)
 
 ![14](../../assets/img/rand_imgs/14.jpg)
 
-![15](../../assets/img/rand_imgs/15.jpg)
-
 ![16](../../assets/img/rand_imgs/16.jpg)
 
 ![17](../../assets/img/rand_imgs/17.jpg)
 
-![18](../../assets/img/rand_imgs/18.jpg)
-
-![19](../../assets/img/rand_imgs/19.jpg)
-
 ![20](../../assets/img/rand_imgs/20.jpg)
-
-![21](../../assets/img/rand_imgs/21.jpg)
 
 ![22](../../assets/img/rand_imgs/22.jpg)
 
@@ -77,8 +61,6 @@ Here are a bunch of sorta recent photos.
 
 ![34](../../assets/img/rand_imgs/34.jpg)
 
-![35](../../assets/img/rand_imgs/35.jpg)
-
 ![36](../../assets/img/rand_imgs/36.jpg)
 
 ![37](../../assets/img/rand_imgs/37.jpg)
@@ -99,13 +81,9 @@ Here are a bunch of sorta recent photos.
 
 ![46](../../assets/img/rand_imgs/46.jpg)
 
-![47](../../assets/img/rand_imgs/47.jpg)
-
 ![48](../../assets/img/rand_imgs/48.jpg)
 
 ![49](../../assets/img/rand_imgs/49.jpg)
-
-![50](../../assets/img/rand_imgs/50.jpg)
 
 ![51](../../assets/img/rand_imgs/51.jpg)
 
@@ -153,4 +131,3 @@ Here are a bunch of sorta recent photos.
 
 ![73](../../assets/img/rand_imgs/73.jpg)
 
-![74](../../assets/img/rand_imgs/74.jpg)
