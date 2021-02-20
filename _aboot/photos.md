@@ -4,7 +4,7 @@ permalink: /aboot/photos/
 redirect_from: /aboot/photos.html
 ---
 
-Here are a bunch of sorta recent photos of me climbing and stuff.
+Here are a bunch of sorta recent photos of me and some pals climbing and stuff.
 
 ![74](../../assets/img/rand_imgs/74.jpg)
 
