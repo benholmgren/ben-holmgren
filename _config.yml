@@ -80,3 +80,5 @@ collections:
   aboot:
     permalink: /:collection/:path/
     output: true
+
+google_analytics: G-KV7WYQNS8G
