@@ -12,6 +12,7 @@ Abstract: Persistent homology has emerged as a powerful series of techniques for
 
 [Poster](../../assets/ncur21.pdf)
 
+---
 
 ### If You Must Choose Among Your Children, Pick the Right One
 
